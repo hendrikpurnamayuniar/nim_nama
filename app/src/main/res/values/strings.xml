@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Biodata Hendrik</string>
+    <string name="app_hendrik">
+        Nama Saya Hendrik Purnama Yuniar, Saya anak ke Dua dari Empat Bersaudara
+        Saya Lahir di Bogor, Pada tanggal 20 Desember 1989,
+        Alamat saya di Kp. Cilember Babakan Rt.003/Rw.001
+        Kec. Cisarua Kab. Bogor
+        Cita-Cita saya Ingin Menjadi Hacker yang membantu Negara Indonesia.
+    </string>
+</resources>
